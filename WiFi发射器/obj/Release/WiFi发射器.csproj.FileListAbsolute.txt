@@ -1,0 +1,9 @@
+E:\VisualStudioProjects\WiFi发射器\WiFi发射器\bin\Release\WiFi发射器.exe.config
+E:\VisualStudioProjects\WiFi发射器\WiFi发射器\bin\Release\WiFi发射器.exe
+E:\VisualStudioProjects\WiFi发射器\WiFi发射器\bin\Release\WiFi发射器.pdb
+E:\VisualStudioProjects\WiFi发射器\WiFi发射器\obj\Release\WiFi发射器.Form1.resources
+E:\VisualStudioProjects\WiFi发射器\WiFi发射器\obj\Release\WiFi发射器.Properties.Resources.resources
+E:\VisualStudioProjects\WiFi发射器\WiFi发射器\obj\Release\WiFi发射器.csproj.GenerateResource.Cache
+E:\VisualStudioProjects\WiFi发射器\WiFi发射器\obj\Release\WiFi发射器.exe
+E:\VisualStudioProjects\WiFi发射器\WiFi发射器\obj\Release\WiFi发射器.pdb
+E:\VisualStudioProjects\WiFi发射器\WiFi发射器\obj\Release\WiFi发射器.csprojResolveAssemblyReference.cache
